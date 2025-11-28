@@ -1,6 +1,6 @@
 {
     "moduleName": "enzostudios",
-    "script_url": "",
+    "script_url": "https://raw.githubusercontent.com/Moonshall/UiExecutor/refs/heads/main/ui.lua",
     "disc_invite": "https://discord.gg/enzostudios",
     "versionName": "Android"
 }
